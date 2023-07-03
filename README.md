@@ -13,7 +13,7 @@ Overview Project
 
 ` Type `
 
-string -> ` "Hi", 'Hi', `Hi` `
+string -> ` "", '', `` `
 
 number -> ` 9, 90.90, -9 `
 
