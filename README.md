@@ -1,7 +1,9 @@
-## Typescript-Basic
+### Typescript-Basic
 
-### Start Project
+#### Start Project
 `npm i `
+
 `npm start`
+
 `tsc --watch  - for generate ts file to js file`
 
